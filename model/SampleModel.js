@@ -15,7 +15,7 @@ define( function( require ) {
 
     PropertySet.call( this, {
         isPlay: true,
-        speed: 'normal' //speed of the model, either 'normal' or 'slow'
+        speed: 'normal'
       }
     );
 

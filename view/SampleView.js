@@ -16,9 +16,6 @@ define( function( require ) {
   var VBox = require( 'SCENERY/nodes/VBox' );
   var PlayPauseButton = require( 'SCENERY_PHET/buttons/PlayPauseButton' );
   var StepButton = require( 'SCENERY_PHET/buttons/StepButton' );
-  var AquaRadioButton = require( 'SUN/AquaRadioButton' );
-  var PhetFont = require( 'SCENERY_PHET/PhetFont' );
-  var Text = require( 'SCENERY/nodes/Text' );
 
 
   function StatesOfMattersView( statesOfMatters ) {
